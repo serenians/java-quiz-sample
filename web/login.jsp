@@ -1,4 +1,3 @@
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <!DOCTYPE html>
 <html>
@@ -9,14 +8,14 @@
     <link rel="shortcut icon" href="favicon_16.ico"/>
     <link rel="bookmark" href="favicon_16.ico"/>
     <!-- site css -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/site.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic" rel="stylesheet" type="text/css">
     <!-- <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'> -->
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
+    <script src="/js/html5shiv.js"></script>
+    <script src="/js/respond.min.js"></script>
     <![endif]-->
 
     <style>
@@ -63,16 +62,16 @@
         </div>
     </div>
 </div>
-<script type="text/javascript" src="assets/js/jquery-1.10.1.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery-validate.bootstrap-tooltip.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/html5shiv.js"></script>
-<script type="text/javascript" src="assets/js/jquery.fs.selecter.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.fs.stepper.min.js"></script>
-<script type="text/javascript" src="assets/js/icheck.min.js"></script>
-<script type="text/javascript" src="assets/js/respond.min.js"></script>
-<script type="text/javascript" src="assets/js/application.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-validate.bootstrap-tooltip.js"></script>
+<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/js/html5shiv.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fs.selecter.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fs.stepper.min.js"></script>
+<script type="text/javascript" src="/assets/js/icheck.min.js"></script>
+<script type="text/javascript" src="/assets/js/respond.min.js"></script>
+<script type="text/javascript" src="/assets/js/application.js"></script>
 <script type="text/javascript">
     $(function(){
 
